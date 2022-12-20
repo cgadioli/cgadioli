@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cgadioli
-- 👀 I’m interested in Linux,MySQL,SQL and SVARDOS!
+- 👀 I’m interested in Linux,MySQL,SQL,MSX and SVARDOS!
 - 🌱 I’m currently learning what i can...
-- 💞️ I’m looking to collaborate on Linux, MS-DOS, SVARDOS!
+- 💞️ I’m looking to collaborate on Linux,MS-DOS,SVARDOS!
 - 📫 How to reach me ... carlos.gadioli@gmail.com
 
 <!---
